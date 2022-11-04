@@ -49,28 +49,28 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 
-global.sig = 'https://instagram.com/kabulsaputra21' // ig
-global.sgh = 'https://github.com/ZykoBotz-MD/' // github
-global.sgc = 'https://chat.whatsapp.com/B9PTc9PZbBH0INkdEN07ws' // group whatsapp
+global.sig = 'https://instagram.com/ivantheo159' // ig
+global.sgh = 'https://github.com/Ivanwagu1/' // github
+global.sgc = 'https://chat.whatsapp.com/EPmjuw9X1wZDGX1p4NCV1e' // group whatsapp
 global.sdc = 'https://www.discord.com'//discord
-global.snh = 'https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow' // my youtube channel
+global.snh = 'https://www.youtube.com/' // my youtube channel
 global.sfb = 'https://www.facebook.com/' // facebook
 global.syt = 'https://www.youtube.com/' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
 
 /*============== PAYMENT ==============*/
-global.pdana = '085212649276' //dana
-global.povo = '085212649276' //ovo
-global.pgopay = '085212649276' //gopay
-global.plinkaja = '085212649276' //link aja
-global.ppulsa = '085212649276' //telkomsel
-global.ppulsa2 = '085212649276' // kalau ada kartu lain isi aja
-global.psaweria = 'https://saweria.co/mrw4h1d'
+global.pdana = '085876830674' //dana
+global.povo = '0' //ovo
+global.pgopay = '0' //gopay
+global.plinkaja = '0' //link aja
+global.ppulsa = '085876830674' //telkomsel
+global.ppulsa2 = '085876830674' // kalau ada kartu lain isi aja
+global.psaweria = 'https://chat.whatsapp.com/EPmjuw9X1wZDGX1p4NCV1e'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285715382503'
-global.nomorown = '6281386943282'
-global.namebot = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
-global.nameown = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
+global.nomorbot = '62858090113571'
+global.nomorown = '6285876830674'
+global.namebot = 'SANS-𝗠𝗗'
+global.nameown = 'VANN-𝗠𝗗'
 
 /*============== Github Thanks To ==============*/
 global.namagithub = 'Nama Github Belum Diisi' // nama github lu
@@ -85,7 +85,7 @@ global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281386943282', '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗', true],
+  ['6285876830674', 'VANN-𝗠𝗗', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
@@ -138,14 +138,14 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗 」' //Main Watermark
+global.wm = '                「 𝙎𝘼𝙉𝙎-𝗠𝗗 」' //Main Watermark
 global.wm2 = ' '
-global.wm3 = '⫹⫺ 𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗 '
+global.wm3 = '⫹⫺ 𝙎𝘼𝙉𝙎-𝗠𝗗 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By 𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗`
+global.titlebot = `⫹⫺ WhatsApp Bot | By 𝙎𝘼𝙉𝙎-𝗠𝗗`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = '                「 𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗  あ」'
+global.author = '                「 𝙎𝘼𝙉𝙎-𝗠𝗗  あ」'
 
 /*Fake*/
 global.fsizedoc = '1'.repeat(10)
