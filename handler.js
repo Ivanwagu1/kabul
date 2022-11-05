@@ -1325,11 +1325,11 @@ export async function participantsUpdate({ id, participants, action }) {
     sourceUrl: sgc
      }}
   })*/
-  let welcom = 'https://telegra.ph/file/855769a02e5dceb1b9e55.jpg'
+  let welcom = 'https://telegra.ph/file/3eed967909e37d97d6a47.jpg'
 
-  let godbye = 'https://telegra.ph/file/d72af1e99d26e938cf2dd.jpg'
+  let godbye = 'https://telegra.ph/file/3eed967909e37d97d6a47.jpg'
   conn.sendButtonImg(id, await(await fetch(action === 'add' ? wel : lea)).buffer(), 'Group Messege', text, action == 'add' ? 'Selmat Datang 😇' : 'Sampai Jumpa 👋', action === 'add' ? '.intro' : 'WH MODS BOT', fakes, { contextInfo: { externalAdReply: { showAdAttribution: true,
-    mediaUrl: 'https://www.instagram.com/kabulsaputra21/',
+    mediaUrl: 'https://www.instagram.com/ivantheo159/',
     mediaType: 2, 
     description: sgc,
     title: "Jᴏɪɴ Sɪɴɪ Cᴜʏ",
