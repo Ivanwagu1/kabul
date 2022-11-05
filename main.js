@@ -169,7 +169,7 @@ global.reloadHandler = async function (restatConn) {
   }
 
   conn.welcome = '👋 Hallo @user\n\n                *W E L C O M E*\n⫹⫺ In @subject\n\n⫹⫺ Read *DESCRIPTION*\n@desc\n\nɢʀᴏᴜᴘ ᴢʏᴋᴏʙᴏᴛᴢ-ᴍᴅ :\nhttps://chat.whatsapp.com/B9PTc9PZbBH0INkdEN07ws'
-  conn.bye = '👋 Byee @user\n\n                *G O O D B Y E*\n\nɢʀᴏᴜᴘ ᴢʏᴋᴏʙᴏᴛᴢ-ᴍᴅ :\nhttps://chat.whatsapp.com/B9PTc9PZbBH0INkdEN07ws'
+  conn.bye = '👋 Byee @user\n\n                *G O O D B Y E*\n\nɢʀᴏᴜᴘ ᴢʏᴋᴏʙᴏᴛᴢ-ᴍᴅ :\nhttps://chat.whatsapp.com/EPmjuw9X1wZDGX1p4NCV1e'
   conn.spromote = '*@user* Sekarang jadi admin!'
   conn.sdemote = '*@user* Sekarang bukan lagi admin!'
   conn.sDesc = 'Deskripsi telah diubah menjadi \n@desc'
