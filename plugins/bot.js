@@ -11,7 +11,7 @@ conn.reply(m.chat, info, m, { contextInfo: { externalAdReply: { showAdAttributio
     description: sgc,
     title: '≪ Jᴏɪɴ Sɪɴɪ Cᴜʏ ⋟',
     body: wm,
-    thumbnail: await(await fetch("https://telegra.ph/file/b077164b1cb312b75b2c1.jpg")).buffer(),
+    thumbnail: await(await fetch("https://telegra.ph/file/3eed967909e37d97d6a47.jpg")).buffer(),
     sourceUrl: sgc
   }
   } }) 
