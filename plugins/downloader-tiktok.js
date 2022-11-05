@@ -90,9 +90,9 @@ ${htki}  📺 Tiktok Downloader 🔎  ${htka}
 Ketik ulang *${usedPrefix + command}* teks anda untuk mengubah teks lagi
 
 Donasi :
-Nomor Developer : wa.me/6282127487538
+Nomor Developer : wa.me/6285876830674
 Nomor Owner Bot : wa.me/${nomorown}
-IG Developer : www.instagram.com/_ctzhid
+IG Developer : www.instagram.com/ivantheo159
 IG Owner : ${sig}
 join gc gw rameiin🗿
 ${sgc}`
