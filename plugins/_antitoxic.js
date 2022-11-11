@@ -13,13 +13,13 @@ export async function before(m, { conn, args, usedPrefix, command, isAdmin, isBo
     let bang = m.key.id
     
     if (chat.antiToxic && isAntiToxic) {
-        await conn.sendButton(m.chat, `*Terdeteksi ${name} apaan tuh? *\n\n_“Barang siapaaa... Barang gw 🗿._ ${isBotAdmin ? '' : '\n\n_Bot bukan atmin_'}`, author, ['Owner', '/owner kontak'], m)
+        await conn.sendButton(m.chat, `*Terdeteksi ${name} sedang online? *\n\n_“minta donasi kak...Sekarang tempat run bot udah bayar 😓._ ${isBotAdmin ? '' : '\n\n_Bot bukan atmin_'}`, author, ['Owner', '/owner kontak'], m)
         if (isBotAdmin && bot.restrict) {
             // await conn.groupParticipantsUpdate(m.chat, [m.sender], 'remove')
  /*   global.db.data.users[m.sender].warn += 1
     global.db.data.users[m.sender].banned = true*/
     return conn.sendMessage(m.chat, { delete: { remoteJid: m.chat, fromMe: false, id: bang, participant: hapus }})
-        } else if (!bot.restrict) return m.reply('mending turu')
+        } else if (!bot.restrict) return m.reply('yang donasi aku doain sukses')
     }
     return !0
 }
