@@ -59,7 +59,7 @@ global.syt = 'https://www.youtube.com/' // my youtube channel "kalau ada yt ke 2
 
 /*============== PAYMENT ==============*/
 global.pdana = '085876830674' //dana
-global.povo = '0' //ovo
+global.shopeepay = '112085876830674' //ovo
 global.pgopay = '0' //gopay
 global.plinkaja = '0' //link aja
 global.ppulsa = '085876830674' //telkomsel
@@ -596,8 +596,8 @@ global.hbunny = ['https://telegra.ph/file/2b71a8d46d29351479fbc.jpg', 'https://t
 global.hbeach = ['https://telegra.ph/file/14ae0ba2da77d74e6b80c.jpg', 'https://telegra.ph/file/b6905b77e6c7732592a13.jpg','https://telegra.ph/file/9da45a352eb4c40e5d641.jpg', 'https://telegra.ph/file/59e78846ee365975ee6e3.jpg','https://telegra.ph/file/1bf7dee46b83eb4c41d7d.jpg','https://telegra.ph/file/0525a7929f819cb8278f3.jpg']
 
 /*============== TEXT ==============*/
-global.wait = '```「▰▰▰▱▱▱▱▱▱▱」Loading...```'
-global.eror = '```404 error```'
+global.wait = '```「▰▰▰▱▱▱▱▱▱▱」Loading tod...```'
+global.eror = '```404 error jir```'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -609,8 +609,7 @@ global.drtf = 'text/rtf'
 global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
 
 /*=========== FAKE SIZE ===========*/
-global.fsizedoc = '99999999999999' // default 10TB
-global.fpagedoc = '999'
+
 
 /*=========== HIASAN ===========*/
 // DEFAULT MENU
