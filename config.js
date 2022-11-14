@@ -160,11 +160,11 @@ global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
 global.thumbs = ['https://telegra.ph/file/3eed967909e37d97d6a47.jpg']
 global.fla = 'https://telegra.ph/file/3eed967909e37d97d6a47.jpg'
 global.thumbnailUrl = [
-'https://telegra.ph/file/3eed967909e37d97d6a47.jpg','https://telegra.ph/file/3eed967909e37d97d6a47.jpg',
-'https://telegra.ph/file/3eed967909e37d97d6a47.jpg','https://telegra.ph/file/3eed967909e37d97d6a47.jpg',
-'https://telegra.ph/file/3eed967909e37d97d6a47.jpg','https://telegra.ph/file/3eed967909e37d97d6a47.jpg',
-'https://telegra.ph/file/3eed967909e37d97d6a47.jpg','https://telegra.ph/file/3eed967909e37d97d6a47.jpg',
-'https://telegra.ph/file/3eed967909e37d97d6a47.jpg','https://telegra.ph/file/3eed967909e37d97d6a47.jpg']
+'https://telegra.ph/file/81260a8b9e8cff26d2b48.jpg','https://telegra.ph/file/ac4928f0824a2a0492737.jpg',
+'https://telegra.ph/file/6359b013bc7e52c3b346f.jpg','https://telegra.ph/file/d43c89a5d2da72875ec05.jpg',
+'https://telegra.ph/file/7d6c0e35f9c8f52715541.jpg','https://telegra.ph/file/ef4b742d47e6a9115e2ff.jpg',
+'https://telegra.ph/file/55e5af5f33fbd57104187.jpg','https://telegra.ph/file/af236598456b95884bd15.jpg',
+'https://telegra.ph/file/de92ed4a729887ffc974c.jpg','https://telegra.ph/file/00ce42a193b1dbbf907d4.jpg']
 
 global.flaaa2 = [
 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&script=water-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextColor=%23000&shadowGlowColor=%23000&backgroundColor=%23000&text=',
@@ -609,7 +609,8 @@ global.drtf = 'text/rtf'
 global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
 
 /*=========== FAKE SIZE ===========*/
-
+global.fsizedoc = '0' // default 10TB
+global.fpagedoc = '0'
 
 /*=========== HIASAN ===========*/
 // DEFAULT MENU
